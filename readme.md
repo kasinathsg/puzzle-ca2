@@ -1,0 +1,3 @@
+This is a slide puzzle game.You are provided with three difficulty levels. There is a timer for each round and you have to solve the puzzle and hit finish button before the countdown. With each slide, one turn is incremented. The player with the least number of turns wins the game.
+
+The coding for game was inspired from Kenny yip coding.-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0k1NEFLbmpNQUVUaE9lV1Z3SUtpM1hVYVN5UXxBQ3Jtc0tsRE1UaEV3elhEYlZsTG5UQlJfeHVOUHFWbTNqWmxRb083OERFb1NjMUFQeTA5Q0VUQ3BqRm5DTDNWSmJHb3dGU2dscDJfYjczUkc3ODVJRWY3SGllbFJ1bFNlUnV6bzhhX2QtREM1NV9mal9KN2FfOA&q=https%3A%2F%2Fgithub.com%2FImKennyYip%2FSlide-Puzzle&v=sD3Os4H_EOU
